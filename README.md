@@ -1,4 +1,4 @@
-# EaglerCraftX Server
+# Emery and Camden's server!
 
 ## Credits
 Original Project: Lax1Dude
